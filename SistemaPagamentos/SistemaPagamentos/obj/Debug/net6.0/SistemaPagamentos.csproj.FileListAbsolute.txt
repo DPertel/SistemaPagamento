@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\bin\Debug\net6.0\SistemaPagamentos.exe
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\bin\Debug\net6.0\SistemaPagamentos.deps.json
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\bin\Debug\net6.0\SistemaPagamentos.runtimeconfig.json
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\bin\Debug\net6.0\SistemaPagamentos.dll
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\bin\Debug\net6.0\SistemaPagamentos.pdb
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.dll
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\refint\SistemaPagamentos.dll
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.pdb
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\SistemaPagamentos.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\SistemaPagamentos\SistemaPagamentos\obj\Debug\net6.0\ref\SistemaPagamentos.dll
